@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-UBC B.SC Combined Mathematics and Computer Science
-
+Hello, my name is Eddie and I am at UBC for a B.Sc Combined Mathematics and Computer Science! Pleasure to meet you.
