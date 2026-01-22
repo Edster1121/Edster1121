@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hello, my name is Eddie and I am at UBC for a B.Sc Combined Mathematics and Computer Science! Pleasure to meet you.
+Here is my personal website: https://edster1121.github.io/Portfolio-Website/.
